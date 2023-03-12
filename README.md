@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center"> 👋🏽 Hello, I'm Christian Yacoub</h1>
-<h3 align="center"> 🖥️ I am a programming student at 42 university. At university, I work with C and C++. I am also in a Full-Stack bootcamp and learning Python on my own. I am 20 years old and currently live in Madrid, Spain.🇪🇸</h3>
 
 [![cyacoub-'s 42 stats](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
