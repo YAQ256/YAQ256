@@ -26,7 +26,7 @@ To contact me: christiayacoub@gmail.com.
 |**Pipex**|[![cyacoub-'s 42 pipex Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3023530)](https://github.com/JaeSeoKim/badge42)
 |**Push_Swap**|[![cyacoub-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3023531)](https://github.com/JaeSeoKim/badge42)
 |**Exam Rank 03**|[![cyacoub-'s 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3055608)](https://github.com/JaeSeoKim/badge42)
-|**Philosophers**|[![cyacoub-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3055628)](https://github.com/JaeSeoKim/badge42)
+|[**Philosophers**](https://github.com/YAQ256/philosophers)|[![cyacoub-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3055628)](https://github.com/JaeSeoKim/badge42)
 
 ## Education:
 * 42 Madrid. (https://www.42madrid.com/)
