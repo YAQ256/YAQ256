@@ -23,7 +23,7 @@ To contact me: christiayacoub@gmail.com.
 |[**Ft_Printf**](https://github.com/YAQ256/ft_printf)|[![cyacoub-'s 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/2866883)](https://github.com/JaeSeoKim/badge42)
 |Exam Rank 02|[![cyacoub-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/2915549)](https://github.com/JaeSeoKim/badge42)
 |[**So_long**](https://github.com/YAQ256/so_long)|[![cyacoub-'s 42 so_long Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/2999257)](https://github.com/JaeSeoKim/badge42)
-|**Pipex**|[![cyacoub-'s 42 pipex Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3023530)](https://github.com/JaeSeoKim/badge42)
+|[**Pipex**](https://github.com/YAQ256/pipex)|[![cyacoub-'s 42 pipex Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3023530)](https://github.com/JaeSeoKim/badge42)
 |[**Push_Swap**](https://github.com/YAQ256/push_swap)|[![cyacoub-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3023531)](https://github.com/JaeSeoKim/badge42)
 |**Exam Rank 03**|[![cyacoub-'s 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3055608)](https://github.com/JaeSeoKim/badge42)
 |[**Philosophers**](https://github.com/YAQ256/philosophers)|[![cyacoub-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3055628)](https://github.com/JaeSeoKim/badge42)
