@@ -9,10 +9,6 @@
 To contact me: christiayacoub@gmail.com.
  </h3>
 
-## 42 Card:
-
-[![cyacoub-'s 42 stats](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
-
 ## Proyects:
 
 |Proyect|Score|
