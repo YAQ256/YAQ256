@@ -23,7 +23,7 @@ To contact me: christiayacoub@gmail.com.
 |[**Push_Swap**](https://github.com/YAQ256/push_swap)|[![cyacoub-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3023531)](https://github.com/JaeSeoKim/badge42)
 |**Exam Rank 03**|[![cyacoub-'s 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3055608)](https://github.com/JaeSeoKim/badge42)
 |[**Philosophers**](https://github.com/YAQ256/philosophers)|[![cyacoub-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3055628)](https://github.com/JaeSeoKim/badge42)
-|[**Minishell**]|[![cyacoub-'s 42 minishell Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3109739)](https://github.com/JaeSeoKim/badge42)
+|[**Minishell**](https://github.com/YAQ256/minishell)|[![cyacoub-'s 42 minishell Score](https://badge42.vercel.app/api/v2/cl9ecbw3700400gm9lmf71vrz/project/3109739)](https://github.com/JaeSeoKim/badge42)
 |[**cub3D**](https://github.com/YAQ256/cub3d)|
 
 ## Education:
