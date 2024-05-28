@@ -9,7 +9,24 @@
 
 ###
 
+<p align="left">Educations</p>
+
+###
+
+* 42 Madrid. (https://www.42madrid.com/)
+* Full-Stack Bootcamp (undefined Academy by Guillermo Rodas)
+
+###
+
 <p align="left">Lenguages</p>
+
+###
+* Spanish. 🇪🇸
+* English. 🇺🇸
+
+###
+
+<p align="left">Programming Lenguages</p>
 
 ###
 
